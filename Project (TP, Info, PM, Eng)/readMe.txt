@@ -1,0 +1,1 @@
+Man startet die Webseite auf der "mainPage" im Ordner Outsiders!

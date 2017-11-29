@@ -1,0 +1,142 @@
+
+body{ 
+	font: normal .80em 'trebuchet ms', arial, sans-serif;
+	background: #F0EFE2 url(snow.gif)repeat-x;
+	background-size: 1280px 800px;
+}
+
+div.spBackground{
+		
+	position: relative;
+	top: 105px;
+	left: 244px;
+	width: 291px;
+	height: 535px;
+		
+	color:#000000;
+	background-color:#ffffff;
+}
+
+div.back{
+		
+	position: absolute;
+	top: 305px;
+	left: 100px;
+	width: 291px;
+	height: 535px;
+}
+
+
+div.hinweis{
+		
+	position: absolute;
+	top: 305px;
+	left: 650px;
+	width: 400px;
+	height: 200px;
+	
+	
+}
+
+
+
+div.text1{
+		
+	position: relative;
+	top: 20px;
+	left: 10px;
+	width: 275px;
+	height: 40px;
+		
+}
+
+div.statusleiste{
+		
+	position: relative;
+	top: -445px;
+	left: 244px;
+	width: 291px;
+	height: 28px;
+			
+	color:#000000;
+	background-color:#000000;
+}
+
+
+div.app1{
+		
+	position: relative;
+	top: -350px;
+	left: 60px;
+	width: 291px;
+	height: 40px;
+}
+		
+div.app2{
+		
+	position: relative;
+	top: -388px;
+	left: 120px;
+	width: 291px;
+	height: 40px;
+}
+		
+div.app3{
+		
+	position: relative;
+	top: -440px;
+	left: 170px;
+	width: 291px;
+	height: 40px;
+}
+		
+div.app4{
+	position: relative;
+	top: 10px;
+	left: 0px;
+	width: 291px;
+	height: 40px;
+}
+
+div.app5{
+	position: relative;
+	top: 15px;
+	left: 5px;
+	width: 291px;
+	height: 40px;
+}
+
+div.app6{
+	position: relative;
+	top: 0px;
+	left: 15px;
+	width: 291px;
+	height: 40px;
+}
+
+div.grey{
+		
+	position: relative;
+	top: 20px;
+	left: 0px;
+	width: 275px;
+	height: 40px;
+				
+	color:#000000;
+	background-color:#71757a
+}
+			
+div.blue{
+		
+	position: relative;
+	top: 20px;
+	left: 0px;
+	width: 275px;
+	height: 40px;
+				
+	color:#000000;
+	background-color:#a7ccf9
+}
+
+
+
